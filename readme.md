@@ -1,8 +1,8 @@
-# Palindromo index
+# Palíndromo index
 
-Retorna el indice de un caracter de la cadena que al removerse convertiría la cadena en un palindromo.
+Retorna el índice de un caracter de la cadena que al removerse convertiría la cadena en un palíndromo.
 
-En el caso que ya sea un palindromo o no tenga solución retorna -1.
+En el caso que ya sea un palíndromo o no tenga solución retorna -1.
 
 ## Ejemplos:  
 
